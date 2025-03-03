@@ -10,7 +10,7 @@ A modern **Flutter** e-commerce application with **Clean Architecture** and **Bl
 - 🛠 **Implemented with Clean Architecture & Repository Pattern**  
 
 ## 📱 Screenshots
-<img src="screenshots/home.png" width="300"/> <img src="screenshots/cart.png" width="300"/>
+<img src="screenshots/home.jpg" width="300"/> <img src="screenshots/cart.jpg" width="300"/> <img src="screenshots/profile.jpg" width="300"/>
 
 ## 🚀 Tech Stack
 - **Flutter**
